@@ -24,11 +24,8 @@ smart-notes-app/
 └── README.md
 
 ## 🚀 How to Run
-
-1. Download project
-2. Extract zip file
-3. Open `index.html`
-4. Start writing notes
+1. Open `index.html`
+2. Start writing notes
 
 No installation required.
 
